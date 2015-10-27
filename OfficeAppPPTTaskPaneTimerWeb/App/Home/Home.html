@@ -1,0 +1,43 @@
+﻿<!-- Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+See LICENSE in the source repository root for complete license information. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title></title>
+    <script src="//ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>
+
+    
+    <script src="//appsforoffice.microsoft.com/lib/1/hosted/office.js" type="text/javascript"></script>
+
+    <!-- Fabric core-->
+    <link rel="stylesheet" href="//appsforoffice.microsoft.com/fabric/1.0/fabric.min.css">
+    <link rel="stylesheet" href="//appsforoffice.microsoft.com/fabric/1.0/fabric.components.min.css">
+
+    <link href="../App.css" rel="stylesheet" type="text/css" />
+    <script src="../App.js" type="text/javascript"></script>
+
+    <link href="Home.css" rel="stylesheet" type="text/css" />
+    <script src="Home.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="content-header">
+        <div class="ms-font-m ms-fontWeight-semibold ms-fontColor-white">
+            <h1>A timer add-in</h1>
+        </div>
+    </div>
+    <div id="content-main">
+        <div class="padding ms-font-m">
+            <p><strong>Click Start to start the timer, and Stop to stop the timer. A notification will appear every 10 seconds.</strong></p>
+            <p>Your times will appear below.</p>
+            <button id="createTimerBtn" class="ms-Button">Start</button>
+            <button id="stopTimerBtn" class="ms-Button">Stop</button>
+            <button id="clearTimerBtn" class="ms-Button">Clear</button><br />
+            <h3>Timer: </h3>
+            <div id="results"></div>
+        </div>
+    </div>
+</body>
+</html>
