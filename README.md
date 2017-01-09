@@ -37,8 +37,8 @@ To stop the timer, click the Stop timer button. All of the times are displayed, 
 ## Build and debug
 
 1. Open the OfficeAppPPTTaskPaneTimer.sln file in Visual Studio.
-
-2. Press **F5** to build and deploy the sample add-in, and then open it in PowerPoint.
+2. Press **F5** to build and deploy the sample add-in.
+3. On the **Home** ribbon, click **Open** in the **Timer** group.
 
 <a name="questions"></a>
 ## Questions and comments
