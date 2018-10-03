@@ -22,10 +22,10 @@ In this sample, we show you how to use the [JavaScript API for Office](https://m
 This sample requires the following:  
 
   - Visual Studio 2013 with Update 5 or Visual Studio 2015.  
-  - PowerPoint 2013 or PowerPoint 2016
+  - PowerPoint 2013 or PowerPoint 2016.
   - Internet Explorer 9, which must be installed but doesn't have to be the default browser. 
-  - One of the following as the default browser: Internet Explorer 9, Safari 5.0.6, Firefox 5, or Chrome 13
-  - Familiarity with JavaScript programming
+  - One of the following as the default browser: Internet Explorer 9, Safari 5.0.6, Firefox 5, or Chrome 13.
+  - Familiarity with JavaScript programming.
 
 <a name="codedescription"></a>
 ## Description of the code
