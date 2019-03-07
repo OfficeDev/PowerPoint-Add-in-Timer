@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Office 365
+- PowerPoint
+languages:
+- CSS
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 8/20/2015 2:33:47 PM
+---
 # PowerPoint-Add-in-Timer
 
 A PowerPoint task pane add-in that provides a timer. 
