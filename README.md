@@ -1,14 +1,17 @@
 ---
 topic: sample
 products:
-- Office 365
-- PowerPoint
+- office-365
+- office-powerpoint
 languages:
-- CSS
+- javascript
+- html
 extensions:
   contentType: samples
   technologies:
   - Add-ins
+  platforms:
+  - CSS
   createdDate: 8/20/2015 2:33:47 PM
 ---
 # PowerPoint-Add-in-Timer
