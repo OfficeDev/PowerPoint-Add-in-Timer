@@ -68,7 +68,7 @@ To stop the timer, click the Stop timer button. All of the times are displayed, 
 - [More Add-in samples](https://github.com/OfficeDev?utf8=%E2%9C%93&query=-Add-in)
 - [Office Add-ins](http://msdn.microsoft.com/library/office/jj220060.aspx)
 - [Anatomy of an Add-in](https://msdn.microsoft.com/library/office/jj220082.aspx#StartBuildingApps_AnatomyofApp)
-- [Creating an Office add-in with Visual Studio](https://msdn.microsoft.com/library/office/fp179827.aspx#Tools_CreatingWithVS)
+- [Creating an Office add-in with Visual Studio](https://docs.microsoft.com/office/dev/add-ins/develop/create-and-debug-office-add-ins-in-visual-studio)
 
 ## Copyright
 Copyright (c) 2015 Microsoft. All rights reserved.
